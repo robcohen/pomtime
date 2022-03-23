@@ -23,7 +23,7 @@ jobs:
       with:
         server: storage.bunnycdn.com
         port: 21
-        local-dir: ./dist/robcohen-dev/
+        local-dir: ./public/
         server-dir: //
         dangerous-clean-slate: true
         exclude: |
